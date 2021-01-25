@@ -2,4 +2,4 @@
 
 # What happened
 
-We've created/modified this during Ansible Advenced class room training.
+We've created/modified this during Ansible Advanced class room training.
